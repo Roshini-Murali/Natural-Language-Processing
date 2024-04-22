@@ -12,5 +12,4 @@ List of experiments:
 8. Viterbi PCFG algorithm
 9. Multi-Layer Perceptron
 10. Text generator using LSTM
-11. RNN based machine translation system
-12. Maximum Likelihood Estimation and Smoothing techniques
+11. Maximum Likelihood Estimation and Smoothing techniques
